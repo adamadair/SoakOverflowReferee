@@ -8,3 +8,6 @@ statement_en.html
 statement_fr.html
 src/main/resources/view/node_modules/
 JulienMain.java
+/.idea
+dependency-reduced-pom.xml
+
